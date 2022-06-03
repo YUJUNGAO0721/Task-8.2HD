@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Truck Sharing</string>
+
+    <string name="api_key">AIzaSyA_Jfux87d0fNc58TeOHa8LPaD04x0a5Sk</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">UserName</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="truck_sharing">Truck Sharing</string>
+    <string name="full_name">Full Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="create_account">Create Account</string>
+    <string name="img">img</string>
+    <string name="new_delivery">New Delivery</string>
+    <string name="receiver_name">* Receiver Name</string>
+    <string name="pick_up_date">* Pick Up Date</string>
+    <string name="pick_up_time">* Pick Up Time</string>
+    <string name="pick_up_location">* Pick Up Location</string>
+    <string name="next">Next</string>
+    <string name="good_type">* Good Type:</string>
+    <string name="weight_kgs">Weight (Kgs)</string>
+    <string name="width_m">Width (m)</string>
+    <string name="length_m">Length (m)</string>
+    <string name="height_m">Height (m)</string>
+    <string name="create_order">Create order</string>
+    <string name="other">Other</string>
+    <string name="mini_truck">Mini-Truck</string>
+    <string name="refrigerated_truck">Refrigerated Truck</string>
+    <string name="van">Van</string>
+    <string name="truck">Truck</string>
+    <string name="vehicle_type">* Vehicle type :</string>
+    <string name="weight_and_dimensions">* Weight and dimensions :</string>
+    <string name="building_material">Building Material</string>
+    <string name="food">Food</string>
+    <string name="dry_goods">Dry Goods</string>
+    <string name="furniture">Furniture</string>
+    <string name="home">Home</string>
+    <string name="account">Account</string>
+    <string name="my_orders">My Orders</string>
+    <string name="log_out">Log Out</string>
+    <string name="profile">Profile</string>
+    <string name="location_12_30pm">Location 12:30pm</string>
+    <string name="posted_by_jay">Posted By: Jay</string>
+    <string name="no_orders">No orders created yet!</string>
+    <string name="order_details">Order Details</string>
+    <string name="goods_description">Goods Description</string>
+    <string name="get_estimate">Get Estimate</string>
+    <string name="book_now">Book Now</string>
+    <string name="call_driver">Call Driver</string>
+    <string name="approx_fare_123">Approx. Fare : $123</string>
+    <string name="approx_travel_time_55_mins">Approx. Travel Time: 4 hours</string>
+    <string name="n_n_n">.\n.\n.</string>
+    <string name="proceed_to_pay">Proceed To Pay</string>
+    <string name="_150">$150</string>
+    <string name="start_chat">Start Chat</string>
+    <string name="chat_wall">Chat Wall</string>
+    <string name="type_your_message">Type your message…</string>
+
+    <string name="item_notification_channel_id" translatable="false">egg_channel</string>
+    <string name="notification_title">Package Arrived!</string>
+    <string name="snooze">Snooze</string>
+    <string name="pickup_ready">Package delivered successfully, awaiting pickup.</string>
+
+    <string name="notification_channel_id" translatable="false">egg_channel</string>
+    <string name="notification_channel_name" translatable="true">Egg</string>
+
+    <string name="breakfast_notification_channel_description">Morning reminder</string>
+    <string name="my_prompt">How are you willing to recommend our service?</string>
+</resources>

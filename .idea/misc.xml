@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidEngWorkspace/AndroidStudioProjects/freelance/TruckSharing/app/src/main/res/drawable/baseline_account_circle_grey_700_48dp.xml" value="0.1245" />
+        <entry key="..\:/AndroidEngWorkspace/AndroidStudioProjects/freelance/TruckSharing/app/src/main/res/drawable/baseline_add_white_24dp.xml" value="0.109" />
+        <entry key="..\:/AndroidEngWorkspace/AndroidStudioProjects/freelance/TruckSharing/app/src/main/res/drawable/baseline_share_black_48dp.xml" value="0.162" />
+        <entry key="..\:/AndroidEngWorkspace/AndroidStudioProjects/freelance/TruckSharing/app/src/main/res/drawable/bg_edit_text.xml" value="0.112" />
+        <entry key="..\:/AndroidEngWorkspace/AndroidStudioProjects/freelance/TruckSharing/app/src/main/res/drawable/bg_normal_btn.xml" value="0.112" />
+        <entry key="..\:/AndroidEngWorkspace/AndroidStudioProjects/freelance/TruckSharing/app/src/main/res/layout/activity_main.xml" value="0.13269927536231885" />
+        <entry key="..\:/AndroidEngWorkspace/AndroidStudioProjects/freelance/TruckSharing/app/src/main/res/layout/activity_order.xml" value="0.13269927536231885" />
+        <entry key="..\:/AndroidEngWorkspace/AndroidStudioProjects/freelance/TruckSharing/app/src/main/res/layout/activity_orders.xml" value="0.13269927536231885" />
+        <entry key="..\:/AndroidEngWorkspace/AndroidStudioProjects/freelance/TruckSharing/app/src/main/res/layout/activity_users.xml" value="0.13269927536231885" />
+        <entry key="..\:/AndroidEngWorkspace/AndroidStudioProjects/freelance/TruckSharing/app/src/main/res/layout/dialog_chooser.xml" value="0.13269927536231885" />
+        <entry key="..\:/AndroidEngWorkspace/AndroidStudioProjects/freelance/TruckSharing/app/src/main/res/layout/dialog_payment.xml" value="0.25" />
+        <entry key="..\:/AndroidEngWorkspace/AndroidStudioProjects/freelance/TruckSharing/app/src/main/res/layout/dialog_picklocation.xml" value="0.25" />
+        <entry key="..\:/AndroidEngWorkspace/AndroidStudioProjects/freelance/TruckSharing/app/src/main/res/layout/fragment_account.xml" value="0.25" />
+        <entry key="..\:/AndroidEngWorkspace/AndroidStudioProjects/freelance/TruckSharing/app/src/main/res/layout/fragment_details.xml" value="0.13269927536231885" />
+        <entry key="..\:/AndroidEngWorkspace/AndroidStudioProjects/freelance/TruckSharing/app/src/main/res/layout/fragment_home.xml" value="0.16666666666666666" />
+        <entry key="..\:/AndroidEngWorkspace/AndroidStudioProjects/freelance/TruckSharing/app/src/main/res/layout/fragment_location.xml" value="0.25" />
+        <entry key="..\:/AndroidEngWorkspace/AndroidStudioProjects/freelance/TruckSharing/app/src/main/res/layout/fragment_login.xml" value="0.25" />
+        <entry key="..\:/AndroidEngWorkspace/AndroidStudioProjects/freelance/TruckSharing/app/src/main/res/layout/fragment_new_delivery.xml" value="0.22" />
+        <entry key="..\:/AndroidEngWorkspace/AndroidStudioProjects/freelance/TruckSharing/app/src/main/res/layout/fragment_payment.xml" value="0.13269927536231885" />
+        <entry key="..\:/AndroidEngWorkspace/AndroidStudioProjects/freelance/TruckSharing/app/src/main/res/layout/fragment_place.xml" value="0.2" />
+        <entry key="..\:/AndroidEngWorkspace/AndroidStudioProjects/freelance/TruckSharing/app/src/main/res/layout/fragment_signup.xml" value="0.22" />
+        <entry key="..\:/AndroidEngWorkspace/AndroidStudioProjects/freelance/TruckSharing/app/src/main/res/layout/item_rv.xml" value="0.25" />
+        <entry key="..\:/AndroidEngWorkspace/AndroidStudioProjects/freelance/TruckSharing/app/src/main/res/menu/app_menu.xml" value="0.2" />
+        <entry key="app/src/main/res/drawable/baseline_account_circle_black_36dp.xml" value="0.1865" />
+        <entry key="app/src/main/res/drawable/baseline_add_photo_alternate_black_24dp.xml" value="0.1865" />
+        <entry key="app/src/main/res/drawable/baseline_send_black_24dp.xml" value="0.1865" />
+        <entry key="app/src/main/res/drawable/bg_send_receiver.xml" value="0.1865" />
+        <entry key="app/src/main/res/layout/fragment_account.xml" value="0.23143115942028986" />
+        <entry key="app/src/main/res/layout/fragment_details.xml" value="0.264" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_login.xml" value="0.23143115942028986" />
+        <entry key="app/src/main/res/layout/fragment_msg.xml" value="0.264" />
+        <entry key="app/src/main/res/layout/fragment_new_delivery.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_payment.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/item_message.xml" value="0.23143115942028986" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.264" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

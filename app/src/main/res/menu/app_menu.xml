@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navHome"
+        android:title="@string/home"
+        android:onClick="navHomeUI"/>
+
+    <item
+        android:id="@+id/navProfile"
+        android:title="@string/account"
+        android:onClick="navViewProfile"/>
+
+    <item
+        android:id="@+id/navOrders"
+        android:title="@string/my_orders"
+        android:onClick="navOrders" />
+
+    <item
+        android:id="@+id/navLogOut"
+        android:title="@string/log_out"
+        android:onClick="navLogOut" />
+</menu>

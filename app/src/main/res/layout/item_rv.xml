@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/lnLayout"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="120dp"
+        android:contentDescription="@string/img"
+        android:background="@drawable/location" />
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center_vertical"
+        android:layout_marginStart="8dp"
+        android:layout_marginEnd="0dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/hReceiverName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:fontFamily="monospace"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:hint="@string/receiver_name"/>
+
+        <TextView
+            android:id="@+id/hLocationAndTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:textSize="14sp"
+            android:fontFamily="monospace"
+            android:textColor="@color/black"
+            android:textStyle="normal"
+            android:hint="@string/location_12_30pm"/>
+
+        <TextView
+            android:id="@+id/hDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:textSize="14sp"
+            android:fontFamily="monospace"
+            android:textColor="@color/black"
+            android:textStyle="italic"
+            android:hint="@string/pick_up_date"/>
+
+        <TextView
+            android:id="@+id/hPostedBy"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:textSize="14sp"
+            android:fontFamily="monospace"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:hint="@string/posted_by_jay"/>
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/shareBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginStart="0dp"
+        android:layout_marginEnd="0dp"
+        android:contentDescription="@string/img"
+        android:background="@drawable/baseline_share_black_48dp" />
+
+</LinearLayout>
